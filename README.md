@@ -17,6 +17,7 @@ This is a technical test from InfoTrack showcasing my projects and skills as a f
 - **.Net 8.0** (Backend logic)
 - **XUnit** (Testing)
 - **Vite** (For building and bundling)
+- **Github Actions** (For CI/CD)
 
 ## Installation
 
